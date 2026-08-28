@@ -2,6 +2,8 @@
 
 A small client-side Minecraft mod that lets you change the splash text on the title screen.
 
+After changing splashes a restart is required
+
 Features
 Change Minecraft's default splash texts
 Simple configuration screen
