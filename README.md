@@ -1,4 +1,4 @@
-V1.1 at 4 Stars
+V1.1 and 26.+ support at 4 Stars
 
 *CustomSplashes*
 
