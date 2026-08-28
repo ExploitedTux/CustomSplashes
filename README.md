@@ -1,21 +1,41 @@
-# Custom-Splashes
-- Tiny client-side mod for custom title screen splash texts and a clean configuration screen.
+Custom-Splashes
+
+A small client-side Minecraft mod that lets you change the splash text on the title screen.
+
+Features
+Change Minecraft's default splash texts
+Simple configuration screen
+Client-side only
+Lightweight and easy to use
+Supports
+Minecraft 1.21+
+Fabric
+Installation
+Install Fabric Loader for your Minecraft version.
+Download Custom-Splashes.
+Put the mod .jar file into your mods folder.
+Start Minecraft.
+
+This mod only needs to be installed on the client. It does not need to be installed on a server.
+
+Configuration
+
+Use the configuration screen to add, remove, or change your splash texts.
+
+Building
+
+To build the mod from source, run:
+
+./gradlew build
 
 
+The built .jar file will be in:
 
+build/libs/
 
-# Features
+License
 
-- Replace Minecraft's default title-screen splashes
-- Client-side only
-- Lightweight and simple
-
-- # Supports
-- 1.21.+
-- Fabric
-
-- # License
-- MIT License
+MIT License
 
 Copyright (c) 2026 ExploitedTux
 
@@ -36,3 +56,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+Copyright (c) 2026 ExploitedTux
+:::
+
+This keeps it short and straightforward without adding unnecessary sections.
