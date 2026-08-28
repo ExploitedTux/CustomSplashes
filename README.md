@@ -1,4 +1,4 @@
-V1.1 at 4Stars
+V1.1 at 4 Stars
 
 *CustomSplashes*
 
