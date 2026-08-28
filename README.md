@@ -1,3 +1,5 @@
+V1.1 at 4Stars
+
 *CustomSplashes*
 
 A small client-side Minecraft mod that lets you change the splash text on the title screen.
